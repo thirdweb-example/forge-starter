@@ -6,7 +6,8 @@
   "author": "adam-maj <mr.adam.maj@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@thirdweb-dev/cli": "^0.6.7"
+    "@thirdweb-dev/cli": "^0.6.7",
+    "@thirdweb-dev/contracts": "^3.0.3"
   },
   "scripts": {
     "build": "npx thirdweb@latest deploy",
