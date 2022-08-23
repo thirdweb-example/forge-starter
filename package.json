@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "@thirdweb-dev/cli": "^0.6.7",
-    "@thirdweb-dev/contracts": "^3.0.3"
+    "@thirdweb-dev/contracts": "^3"
   },
   "scripts": {
     "build": "npx thirdweb@latest deploy",
